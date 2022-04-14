@@ -1,4 +1,4 @@
-# imei-splitter-v1.0.0
+# imei-splitter-v1.0.4
 
 > Software para tratar e separar os IMEIS dos dispositivos produzidos pela fábrica e prontos para enviar para a Google.
 > 
