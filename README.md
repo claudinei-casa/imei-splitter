@@ -21,13 +21,13 @@ virtualenv -p /usr/bin/python3.9 venv
 Primeiro você precisa instalar as dependências citadas anteriormente e as demais contidas em **dependencies.txt**:
 
 ```bash
-pip install -r **dependencies.txt**
+pip install -r dependencies.txt
 ```
 
 Já pode iniciar o imei-splitter usando um:
 
 ```bash
-python [main.py](http://main.py/)
+python main.py
 ```
 
 Pronto agora você já pode gerar seus arquivos.
